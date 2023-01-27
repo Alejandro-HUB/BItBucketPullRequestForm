@@ -92,7 +92,8 @@ const App = () => {
                 {
                     name: 'main'
                 }
-            }
+            },
+            description: "Test"
         };
 
         const body = JSON.stringify(createBody);

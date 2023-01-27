@@ -7,7 +7,7 @@
   "request": "launch",
   "name": "localhost (Edge)",
   "url": "http://localhost:3000",
-  "webRoot": "C:\\Users\\alzco\\source\\repos\\BItBucketPullRequestForm\\BitBucketPullRequestForm"
+  "webRoot": "C:\\Users\\alzco\\source\\repos\\BitBucketPullRequestForm\\BitBucketPullRequestForm"
 }</LaunchJsonTarget>
   </PropertyGroup>
 </Project>
