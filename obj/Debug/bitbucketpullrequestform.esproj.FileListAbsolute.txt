@@ -1,0 +1,2 @@
+C:\Users\alzco\source\repos\BitBucketPullRequestForm\BitBucketPullRequestForm\obj\Debug\bitbucketpullrequestform.esproj.SuggestedBindingRedirects.cache
+C:\Users\alzco\source\repos\BitBucketPullRequestForm\BitBucketPullRequestForm\obj\Debug\bitbucketpullrequestform.esproj.CoreCompileInputs.cache
