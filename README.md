@@ -50,4 +50,4 @@ Contributions to the Create Pull Request App are welcome! If you encounter any i
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU License](https://github.com/Alejandro-HUB/BItBucketPullRequestForm/blob/master/LICENSE).
